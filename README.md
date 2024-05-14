@@ -9,9 +9,13 @@ Started with running following commands
 Enter below informations into gpg_config file.
 
 Name-Real: Your Name
+
 Name-Comment: Your Comment
+
 Name-Email: your-email@example.com
-Expire-Date: 1y
+
+Expire-Date: 1y 
+
 Passphrase: your-passphrase
 
 Then, run following command
