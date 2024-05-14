@@ -3,6 +3,7 @@
 Started with running following commands
 
 ``` git clone git@github.com:barisdemirkap/PGP-encryption-decryption-automation.git ```
+
 ``` cd PGP-encryption-decryption-automation ```
 
 Enter below informations into gpg_config file.
